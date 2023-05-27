@@ -1,32 +1,17 @@
 # <center>Gary Chen(陳冠聿)</center>
 
----
 Email: gary515chen@gmail.com
 
 [Linkedin](www.linkedin.com/in/guanyu515chen)
 
----                                            
-
 ## Education
-
----
-
 * 2012/08 ~ 2016/06 
   * **Department of Information Management** ; *Chinese Culture University*
 
----
-
 ## Summary
-
----
-
 * 3+ year of Site Reliability Engineer experience management Cloud infrastructure (GCP), CI/CD and monitoring.
 
----
-
 ## Experience
-
----
 
 ### Coolbe Inc., Taipei, 2021/01 - Current
 #### Site Reliability Engineer
