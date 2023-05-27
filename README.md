@@ -21,11 +21,11 @@ Email: gary515chen@gmail.com
   * Deploy application to GKE by integrating GitLab CI/CD with Ansible.
   * Gitlab CI/CD combined with TerraformAutomate the creation of relevant resources such as Pub/Sub, Cloud Function, Dataflow, BigQuery, and Cloud Scheduler in GCP using GitLab and Terraform to accelerate Data Warehouse construction.
 
-* Cloud Infrastructure
+* Cloud Infrastructure (GCP)
   * Create various services in GCP using Terraform.
   * GCP: IAM, VPC, GKE, GCE, Cloud SQL, Cloud Storage, Cloud Function, Cloud CDN, Cloud DNS, Big Query, Dataflow...
 
-* Kubernetes
+* Kubernetes (GKE)
   * Elastic Cloud on K8s
   * Cert Manager
   * Externel DNS
@@ -50,3 +50,38 @@ Email: gary515chen@gmail.com
 * Online service maintenance.
 
 * Assist the RD (Research and Development) team in troubleshooting online system issues.
+
+### Anue Inc. Taipei
+#### Site Reliability Engineer (2020/02 - 2021/01)
+* Containerize applications, Ex. php, node.js, java.
+
+* CI/CD
+  * Deploy application to GKE by integrating GitLab CI/CD with Ansible.
+
+* Cloud Infrastructure (GCP & AWS)
+  * Create various services in GCP and AWS using Terraform.
+  * AWS: IAM, VPC, EC2, S3, SES, SNS, RDS, Lambda...
+  * GCP: IAM, VPC, GKE, GCE, Cloud SQL, Cloud Storage...
+
+* Online service maintenance.
+
+* Assist the RD (Research and Development) team in troubleshooting online system issues.
+
+* Akamai CDN platform maintenance.
+
+#### Automation Engineer (2018/02 - 2020/02)
+* Write automated tests using Selenium and deploy them to Zalenium.
+
+* Integrate Google Analytics with Google Sheets.
+
+#### MIS (2017/10 - 2018/10)
+* On-premises data center maintenance.
+
+* Help Desk
+
+## Skills
+* Backend: Python
+* Cloud Platform: GCP / AWS
+* Version Control: Git
+* IaC: Terraform
+* 
