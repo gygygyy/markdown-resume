@@ -91,5 +91,5 @@ Email: gary515chen@gmail.com
 * **IaC**: Terraform
 * **Configuration Management**: Ansible
 * **Monitoring**: Prometheus, Grafana, ELK(ElasticSearch, Logstash, Kibana)
-* **Database**: MySQL, RabbitMQ, Redis, Cassandra
+* **Database**: MySQL, RabbitMQ, Redis
 * **CDN**: Akamai, Cloudflare, Cloud CDN
