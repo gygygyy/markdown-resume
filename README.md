@@ -80,16 +80,16 @@ Email: gary515chen@gmail.com
 * Help Desk
 
 ## Skills
-* Technique: Python, Shell Script
-* OS: Linux
-* VM Management: Vagrant, Mulitpass, Packer
-* Cloud Platform:
-  * GCP: GCE, GCS, GKE, CloudSQL, MemoryStore, Pub/Sub, Cloud Functions, Cloud DNS, Cloud CDN
-  * AWS: EC2, SES, SNS, Lambda, S3, CloudFront, Route53
-* Container Orchestration: Docker, Kubernetes
-* CI/CD: Gitlab
-* IaC: Terraform
-* Configuration Management: Ansible
-* Monitoring: Prometheus, Grafana, ELK(ElasticSearch, Logstash, Kibana)
-* Database: MySQL, RabbitMQ, Redis, Cassandra
-* CDN: Akamai, Cloudflare, Cloud CDN
+* **Technique**: Python, Shell Script
+* **OS**: Linux
+* **VM Management**: Vagrant, Mulitpass, Packer
+* **Cloud Platform**:
+  * **GCP**: GCE, GCS, GKE, CloudSQL, MemoryStore, Pub/Sub, Cloud Functions, Cloud DNS, Cloud CDN
+  * **AWS**: EC2, SES, SNS, Lambda, S3, CloudFront, Route53
+* **Container Orchestration**: Docker, Kubernetes
+* **CI/CD**: Gitlab
+* **IaC**: Terraform
+* **Configuration Management**: Ansible
+* **Monitoring**: Prometheus, Grafana, ELK(ElasticSearch, Logstash, Kibana)
+* **Database**: MySQL, RabbitMQ, Redis, Cassandra
+* **CDN**: Akamai, Cloudflare, Cloud CDN
