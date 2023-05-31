@@ -4,10 +4,6 @@ Email: gary515chen@gmail.com
 
 [Linkedin](www.linkedin.com/in/guanyu515chen)
 
-## Education
-* 2012/08 ~ 2016/06 
-  * **Department of Information Management** ; *Chinese Culture University*
-
 ## Summary
 * 3+ year of Site Reliability Engineer experience management Cloud infrastructure (GCP), CI/CD and monitoring.
 
@@ -95,3 +91,7 @@ Email: gary515chen@gmail.com
 * **Monitoring**: Prometheus, Grafana, ELK(ElasticSearch, Logstash, Kibana)
 * **Database**: MySQL, RabbitMQ, Redis
 * **CDN**: Akamai, Cloudflare, Cloud CDN
+
+## Education
+* 2012/08 ~ 2016/06 
+  * **Department of Information Management** ; *Chinese Culture University*
