@@ -18,7 +18,7 @@ Email: gary515chen@gmail.com
 * Containerize applications, Ex. php, node.js, java, golang ...
 
 * CI/CD
-  * Introduce CI/CD to avoid manual application version upgrades.
+  * Implement CI/CD to avoid the need for manual application version upgrades in the past.
   * Deploy application to GKE by integrating GitLab CI/CD with Ansible.
   * Gitlab CI/CD combined with TerraformAutomate the creation of relevant resources such as Pub/Sub, Cloud Function, Dataflow, BigQuery, and Cloud Scheduler in GCP using GitLab and Terraform to accelerate Data Warehouse construction.
 
