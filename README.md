@@ -18,6 +18,7 @@ Email: gary515chen@gmail.com
 * Containerize applications, Ex. php, node.js, java, golang ...
 
 * CI/CD
+  * Introduce CI/CD to avoid manual application version upgrades.
   * Deploy application to GKE by integrating GitLab CI/CD with Ansible.
   * Gitlab CI/CD combined with TerraformAutomate the creation of relevant resources such as Pub/Sub, Cloud Function, Dataflow, BigQuery, and Cloud Scheduler in GCP using GitLab and Terraform to accelerate Data Warehouse construction.
 
@@ -38,6 +39,7 @@ Email: gary515chen@gmail.com
 * Create Cassandra (K8ssandra) as the database for a one-on-one conversation application.
 
 * Monitoring
+  * Implement monitoring tools to enhance application stability and real-time troubleshooting capabilities.
   * Collect logs using ELK (Elasticsearch, Logstash, Kibana) and parse log levels using the open-source project `elastalert` to send alerts to Discord.
   * Utilize Kibana to visualize log levels in charts for easier tracking and monitoring.
   * Monitor infrastructure using Prometheus and Grafana, and in case of any abnormalities, send alerts to Discord through Grafana or Alertmanager.
