@@ -1,4 +1,4 @@
-# Gary Chen
+# Gary Chen (陳冠聿)
 
 Email: gary515chen@gmail.com
 
